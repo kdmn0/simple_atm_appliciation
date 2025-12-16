@@ -24,6 +24,8 @@ Modüller: os (terminal temizleme), time (simülasyon gecikmeleri).
 
 Şifre: 12345
 
+[Geliştirici] : Yiğit Arda Kıdıman / kdmn0
+
 **************************************************************************************************************************************************************************************************
 
 [Simple ATM Simulation]
@@ -51,3 +53,5 @@ Modules: os (terminal clearing), time (simulation delays).
 [!NOTE] Default Login Credentials:
 
 Password: 12345
+
+[Developer] : Yiğit Arda Kıdıman / kdmn0
